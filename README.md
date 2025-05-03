@@ -40,8 +40,8 @@
   <h1>Welcome to Samir9622's Project Hub</h1>
 
   <a class="button" href="https://samir9622.github.io/Tool/" target="_blank">ToolHub</a>
-  <a class="button" href="https://samir9622.github.io/Toolplus/" target="_blank">Toolplus</a>
-  <a class="button" href="https://samir9622.github.io/Tools-3/" target="_blank">Tools-3</a>
+  <a class="button" href="https://samir9622.github.io/Toolhubs-2/" target="_blank">Toolplus</a>
+  <a class="button" href="https://samir9622.github.io/Tools-index.html/" target="_blank">Tools-3</a>
   <a class="button" href="https://samir9622.github.io/Toolhubs-1/" target="_blank">Toolhubs-1</a>
   <a class="button" href="https://github.com/samir9622" target="_blank">My GitHub Profile</a>
 
